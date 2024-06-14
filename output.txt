@@ -1,0 +1,2 @@
+The total weight of the minimum spanning tree: 395
+e1011,e15,e25,e36,e46,e58,e611,e67,e810,e89
