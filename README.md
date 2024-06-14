@@ -11,7 +11,9 @@
 -------
 
 ## Implementation
+
 This Python script implements Kruskal’s algorithm to find the minimum spanning tree of a graph. The graph data is read from a CSV file and the total weight of the minimum spanning tree is printed, along with the edge labels.
+
 -------
 ### Algorithm working process
 This code is implementing Kruskal’s algorithm to find the minimum spanning tree (MST) of a graph. Here’s a step-by-step breakdown:
