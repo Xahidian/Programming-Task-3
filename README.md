@@ -1,7 +1,7 @@
 # Programming Task 3
 
 ## Graph Search Algorithm
-### Course: IT00CD89-3005 Graph Algorithms 5
+### Course: IT00CD89-3005 Graph Algorithms 
 
 -------
 **Submitted By:**
